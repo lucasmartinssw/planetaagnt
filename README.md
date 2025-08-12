@@ -14,9 +14,6 @@ O site serve como um **ponto central de informações** sobre:
 
 ## 🖼 Demonstrações
 
-### Página Inicial (Landing Page)
-![Página Inicial](docs/imagens/pagina-inicial.png)
-
 ### Página de Eco Pontos
 ![Eco Pontos](docs/imagens/eco-pontos.png)
 
