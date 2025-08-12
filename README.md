@@ -1,4 +1,4 @@
-# 🌎 Planeta Agente
+# 🌎 PlanetAgente
 
 ![Capa do Projeto](docs/imagens/capa.png)
 
